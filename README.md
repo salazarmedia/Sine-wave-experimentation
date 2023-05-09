@@ -1,1 +1,0 @@
-# Sine-wave-experimentation
